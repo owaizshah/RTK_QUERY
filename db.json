@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "name": "Trevor Reilly II",
+      "id": 1
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Unbranded Wooden Table",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Bronze Car",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Generic Rubber Towels",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Plastic Soap",
+      "id": 4
+    }
+  ],
+  "photos": [
+    {
+      "albumsId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=15075",
+      "id": 1
+    },
+    {
+      "albumsId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=10262",
+      "id": 3
+    },
+    {
+      "albumsId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=34749",
+      "id": 4
+    }
+  ]
+}
